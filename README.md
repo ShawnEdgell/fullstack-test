@@ -1,1 +1,1 @@
-# fullstack-test
+# Svelte + Supabase + Vercel
